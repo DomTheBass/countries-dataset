@@ -1,5 +1,7 @@
 # Countries Dataset
 
+**Version 2025.1** | [Changelog](CHANGELOG.md) | [License](LICENSE)
+
 A comprehensive dataset containing information about all 195 recognized sovereign countries in the world.
 
 ## Overview
@@ -177,10 +179,14 @@ ORDER BY country_count DESC;
 ## File Organization
 
 ```
-countries/
-├── README.md           # This documentation file
-├── countries.csv       # Main dataset
-└── countries_import.sql # SQL Server import script
+countries-dataset/
+├── .gitignore              # Git ignore file
+├── CHANGELOG.md           # Version history and changes
+├── LICENSE                # MIT License
+├── README.md             # This documentation file
+├── VERSION               # Current version number
+├── countries.csv         # Main dataset
+└── countries_import.sql  # SQL Server import script
 ```
 
 ## Version Information
