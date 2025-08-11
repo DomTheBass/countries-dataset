@@ -1,15 +1,21 @@
-# GitHub Repository Setup Commands
+# GitHub Repository Setup Commands (COMPLETED ✅)
 # 
-# After creating the repository on GitHub, run these commands:
+# This repository has been successfully published to:
+# https://github.com/DomTheBass/countries-dataset
 
-# Set the main branch
+# Commands that were used:
+git init
+git add .
+git commit -m "Initial commit: Countries dataset with 195 countries"
 git branch -M main
+git remote add origin https://github.com/DomTheBass/countries-dataset.git
 
-# Add the GitHub remote (replace 'yourusername' with your actual GitHub username)
-git remote add origin https://github.com/yourusername/countries-dataset.git
-
-# Push to GitHub
+# Authentication was done using GitHub CLI:
+brew install gh
+gh auth login
 git push -u origin main
 
-# Alternative: If you prefer SSH (after setting up SSH keys)
-# git remote add origin git@github.com:yourusername/countries-dataset.git
+# Future updates can be pushed with:
+git add .
+git commit -m "Your commit message"
+git push
