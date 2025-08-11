@@ -189,6 +189,48 @@ countries/
 - **Last Updated**: August 2025
 - **Next Update**: Planned for 2026
 
+## Citation
+
+If you use this dataset in academic research, please cite it as follows:
+
+### BibTeX
+```bibtex
+@dataset{howard2025countries,
+  author = {Howard, Dominic},
+  title = {Countries Dataset: Comprehensive Global Reference Data},
+  year = {2025},
+  version = {2025.1},
+  publisher = {GitHub},
+  url = {https://github.com/DomTheBass/countries-dataset},
+  note = {Dataset includes 195 countries with demographic, geographic, and telecommunications data}
+}
+```
+
+### APA Style
+Howard, D. (2025). *Countries Dataset: Comprehensive Global Reference Data* (Version 2025.1) [Data set]. GitHub. https://github.com/DomTheBass/countries-dataset
+
+### MLA Style
+Howard, Dominic. "Countries Dataset: Comprehensive Global Reference Data." *GitHub*, 2025, github.com/DomTheBass/countries-dataset.
+
+### Chicago Style
+Howard, Dominic. "Countries Dataset: Comprehensive Global Reference Data." GitHub, 2025. https://github.com/DomTheBass/countries-dataset.
+
+### Plain Text
+Howard, D. (2025). Countries Dataset: Comprehensive Global Reference Data (Version 2025.1). Retrieved from https://github.com/DomTheBass/countries-dataset
+
+### DOI
+*A DOI will be assigned when this dataset is published to Zenodo or figshare for permanent archival.*
+
+## Academic Usage Guidelines
+
+When using this dataset for research:
+
+1. **Data Verification**: Always cross-reference population figures with official sources for critical analysis
+2. **Version Control**: Specify the exact version (2025.1) used in your research for reproducibility
+3. **Limitations**: Acknowledge that population data are estimates and may vary between sources
+4. **Updates**: Check for newer versions before publication, as demographic data changes annually
+5. **Scope**: Clearly state that this covers 195 UN-recognized sovereign states plus Vatican City
+
 ## License
 
 This dataset is provided for educational and commercial use. Please verify population figures with official sources for critical applications.
